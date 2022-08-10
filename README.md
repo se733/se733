@@ -20,7 +20,7 @@ donde durante +800 horas estudié y practiqué en un lapso de 3 meses, dónde re
 
 <hr/>
 
-- ### 🔗 Links
+- ### 🔗 Links de contacto
 
  <a href="mailto:chavezsebas737@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chavezsebas737@gmail.com"/></a>&nbsp;&nbsp;
 
