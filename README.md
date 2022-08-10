@@ -7,15 +7,6 @@ donde durante +800 horas estudié y practiqué en un lapso de 3 meses, dónde re
 
 <hr/>
 
-- ### 🔗 Links
-
- <a href="mailto:chavezsebas737@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chavezsebas737@gmail.com"/></a>&nbsp;&nbsp;
-
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebaschavez/) 
-- 📫 Podes escribirme a : **chavezsebas737@gmail.com**
-
-<hr/>
-
 <h3 align="left">Tengo experiencia en las siguientes tecnologías:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
      <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
@@ -26,3 +17,15 @@ donde durante +800 horas estudié y practiqué en un lapso de 3 meses, dónde re
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+
+<hr/>
+
+- ### 🔗 Links
+
+ <a href="mailto:chavezsebas737@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chavezsebas737@gmail.com"/></a>&nbsp;&nbsp;
+
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebaschavez/) 
+- 📫 Podes escribirme a : **chavezsebas737@gmail.com**
+
+<hr/>
+
