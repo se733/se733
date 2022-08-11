@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, Soy Sebastian!</h1>
+<h1 align="center">¡Hola, Soy Sebastián!</h1>
 
 Mi nombre es Sebastián Chavez y te doy la bienvenida a mi repositorio!
 Soy Full-Stack Developer, vivo en Argentina y quiero contarte que estoy buscando desarrollarme en el mundo IT! Tratando cada dia de ser un mejor dev para toda la comunidad del software.
