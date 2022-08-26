@@ -23,7 +23,8 @@ donde durante +800 horas estudié y practiqué en un lapso de 3 meses, dónde re
 - ### 🔗 Links de contacto
 
  <a href="mailto:chavezsebas737@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chavezsebas737@gmail.com"/></a>&nbsp;&nbsp;
-
+    
+ [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-sebas.netlify.app/)
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebaschavez/) 
 - 📫 Podes escribirme a : **chavezsebas737@gmail.com**
 
