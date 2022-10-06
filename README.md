@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, Soy Sebastián!</h1>
 
 Mi nombre es Sebastián Chavez y te doy la bienvenida a mi repositorio!
-Soy Full-Stack Developer, vivo en Argentina y quiero contarte que estoy buscando desarrollarme todos los dias en el mundo IT! Tratando cada dia de ser un mejor dev para toda la comunidad del software.
+Soy Full-Stack Developer, vivo en Argentina y quiero contarte que estoy buscando desarrollar mi carrera en el mundo IT! Tratando cada dia de ser un mejor dev para toda la comunidad del software.
 Cuando me di cuenta que queria girar mi vida profesional hacia el mundo de la programación, realicé un Bootcamp en [Plataforma 5](https://www.plataforma5.la/).
 Sigo buscando aprender nuevas tecnologías para poder ampliar mi stack y mi conocimiento en el mundo del desarrollo de software.
 
